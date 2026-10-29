@@ -1,5 +1,7 @@
 # 7not-nico — TODO name/bio
 
+Hub: [7not-nico/hub](https://github.com/7not-nico/hub) — all repos, one folder per domain.
+
 ## Domains
 
 ### music-midi
